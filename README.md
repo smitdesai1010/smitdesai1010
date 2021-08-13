@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Smit Desai</h1>
-<h3 align="center">A Software developer who loves to solve everyday problems using code</h3>
+<h3 align="center">A Software developer who solves everyday problems using code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitdesai1010&label=Profile%20views&color=0e75b6&style=flat" alt="smitdesai1010" /> </p>
 
