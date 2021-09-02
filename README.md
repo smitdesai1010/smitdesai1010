@@ -36,19 +36,19 @@
 <h3 align="center"> 🎧 Tools </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/-Linux-000000?logo=linux&style=for-the-badge&logoColor=white">   
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    <img src="https://img.shields.io/badge/-Linux-000000?logo=linux&style=for-the-badge&logoColor=white">   
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">   
     <img src="https://img.shields.io/badge/Visual Studio-5d2b90?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> 
 </p>
 
-
 <h2 align="center"> 📫 Reach me on</h2>
-
 <p align="center">
     <a href="https://www.linkedin.com/in/smitdesai1010/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee"></a>  
     <a href="https://github.com/smitdesai1010"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
