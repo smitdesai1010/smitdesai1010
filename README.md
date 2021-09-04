@@ -1,11 +1,29 @@
 <h1 align="center">Hello World 👋, I'm Smit Desai</h1>
 <h3 align="center">I solve everyday problems using code</h3>
 
+<details style="margin: 10px 0px">
+    <summary style="cursor:pointer; font-size: 20px">LectureNotes</summary>
+    <p style="margin: 10px 20px"> I was chatting the other day with my friends and they were dicussing the difficulties of listening and taking notes simultaneously during a online lecture. So I developed a chrome extension that summarizes a lecture into text in real time </p>
+   
+</details>
+
+<details style="margin: 10px 0px">
+    <summary style="cursor:pointer; font-size: 20px">GetYourVaccine</summary>
+    <p style="margin: 10px 20px"> During Summer 2021, when vaccinations drives started in India, it faced a shortage of vaccines due to the sheer population. As a result people had check 3-4 times a day on the government portal to check if a vaccine was available. So I developed a web-application which notifies users via SMS as soon as a vaccine is available in their locality that matches their demographic profile 
+    </p>
+</details>
+
+<details style="margin: 10px 0px">
+    <summary style="cursor:pointer; font-size: 20px">YouMusic</summary>
+    <p style="margin: 10px 20px">
+    I was sitting with my father one day and saw he was struggling to download songs from the internet since he is a non technical person. So I developed a application which can stream or download any song from YouTube.
+    </p>
+</details>
+
+
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitdesai1010&label=Profile%20views&color=0e75b6&style=flat" alt="smitdesai1010" /> </p>
 
-- 🔭 I’m currently working on [LectureNotes](https://github.com/smitdesai1010/LectureNotes)
-
-- 📫 How to reach me **smitdesai1010@gmail.com**
 
 <h3 align="center"> 💻 Programming Languages </h3>
 <p align="center">  
