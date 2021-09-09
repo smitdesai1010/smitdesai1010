@@ -3,7 +3,8 @@
 
 <details style="margin: 10px 0px">
     <summary style="cursor:pointer; font-size: 20px">LectureNotes</summary>
-    <p style="margin: 10px 20px">I was chatting the other day with my friends and they were dicussing the difficulties of listening and taking notes simultaneously during a online lecture. So I developed a chrome extension that summarizes a lecture into text in real time </p>
+    <p style="margin: 10px 20px"> 
+    My friends complained about the difficulties of listening and taking notes simultaneously during a online lecture. So I developed a chrome extension that summarizes a lecture into text in real time </p>
    
 </details>
 
