@@ -75,13 +75,3 @@
     <a href="https://discordapp.com/users/smitdesai1010#7048"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitdesai1010&show_icons=true&locale=en&layout=compact" alt="smitdesai1010" />
-</p>
-
-<p align="center">
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=smitdesai1010&show_icons=true&locale=en" alt="smitdesai1010"/>
-</p>
