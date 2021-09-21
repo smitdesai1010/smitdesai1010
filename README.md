@@ -21,7 +21,7 @@
     <summary style="cursor:pointer; font-size: 20px">YouMusic</summary>
     <br/>
     <p style="margin: 10px 20px">
-    I was sitting with my father one day and saw he was struggling to download songs from the internet since he is a non technical person. So I developed a application which can stream or download any song from YouTube.
+    I was sitting with my father one day and saw he had troubles downloading songs from the internet since he is a non technical person. So I developed a application which can stream or download any song from YouTube.
     </p>
     <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/YouMusic#youmusic">View Project</a>
 </details>
