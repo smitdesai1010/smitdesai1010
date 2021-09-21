@@ -6,7 +6,7 @@
     <br/>
     <p style="margin: 10px 20px"> 
     My friends complained about the difficulties of listening and taking notes simultaneously during a online lecture. So I developed a chrome extension that summarizes a lecture into text in real time </p>
-    <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/LectureNotes">View Project</a>
+    <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/LectureNotes#lecturenotes">View Project</a>
 </details>
 
 <details style="margin: 10px 0px">
@@ -14,7 +14,7 @@
     <br/>
     <p style="margin: 10px 20px"> During Summer 2021, when vaccinations drives started in India, it faced a shortage of vaccines due to the sheer population. As a result people had check 3-4 times a day on the government portal to check if a vaccine was available. So I developed a web-application which notifies users via SMS as soon as a vaccine is available in their locality that matches their demographic profile 
     </p>
-    <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/GetYourVaccine">View Project</a>
+    <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/GetYourVaccine#getyourvaccine">View Project</a>
 </details>
 
 <details style="margin: 10px 0px">
@@ -23,7 +23,7 @@
     <p style="margin: 10px 20px">
     I was sitting with my father one day and saw he was struggling to download songs from the internet since he is a non technical person. So I developed a application which can stream or download any song from YouTube.
     </p>
-    <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/YouMusic">View Project</a>
+    <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/YouMusic#youmusic">View Project</a>
 </details>
 
 
