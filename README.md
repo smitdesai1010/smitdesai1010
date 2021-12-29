@@ -12,7 +12,7 @@
 <details style="margin: 10px 0px">
     <summary style="cursor:pointer; font-size: 20px">GetYourVaccine</summary>
     <br/>
-    <p style="margin: 10px 20px"> During Summer 2021, when vaccinations drives started in India, it faced a shortage of vaccines due to the sheer population. As a result people had check 3-4 times a day on the government portal to check if a vaccine was available. So I developed a web-application which notifies users via SMS as soon as a vaccine is available in their locality that matches their demographic profile 
+    <p style="margin: 10px 20px"> During Summer 2021, when vaccinations drives started in India, it faced an acute shortage of vaccines due to the sheer population. As a result vaccines were booked before most people got aware. So I developed a web-application which notifies users via SMS as soon as a vaccine is available in their locality that matches their demographic profile 
     </p>
     <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/GetYourVaccine#getyourvaccine">View Project</a>
 </details>
