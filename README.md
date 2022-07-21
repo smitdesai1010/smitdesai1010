@@ -32,7 +32,7 @@
     <p style="margin: 10px 20px">
     After developing the YouMusic application, I asked a question to myself, "Will people use it, if I deploy it?", the answer was "BIG NO", as apps like Apple music and Spotify are popular and offer much better user experience. So I needed an X-Factor and thus built a chrome extension. Now the client can access all features of YouMusic, while being on the YouTube website, thus reducing the 4-5 clicks and improving the user experience.
     </p>
-    <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/YouMusic#youmusic">View Project</a>
+    <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/YouMusic-ChromeExtension">View Project</a>
 </details>
 
 <br/>
