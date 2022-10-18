@@ -36,6 +36,20 @@
 </details>
 
 <br/>
+
+<h3 align="center">Work Experience</h3>
+<ul>
+    <li>
+        <b>Teaching Assistant at Concordia University - </b> I taught students the fundamentals of Web Programming for SOEN 287 course
+    </li>
+    <li>
+        <b>Software Engineer Intern at Okta - </b> I wrote code to integrate external touchID into Okta Verify App for MacOS 
+    </li>
+    <li>
+        <b>Software Engineer Intern at Scotiabank - </b>I wrote code to validate interac e-transfers deposited at Scotiabank.
+    </li>
+</ul>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitdesai1010&label=Profile%20views&color=0e75b6&style=flat" alt="smitdesai1010" /> </p>
 
 
@@ -43,6 +57,7 @@
 <p align="center">  
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
     <img src="https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">   
@@ -52,6 +67,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">  
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -69,7 +85,8 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/-Linux-000000?logo=linux&style=for-the-badge&logoColor=white">   
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </p>
