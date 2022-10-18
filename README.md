@@ -35,16 +35,16 @@
     <a style="margin: 10px 20px" href="https://github.com/smitdesai1010/YouMusic-ChromeExtension">View Project</a>
 </details>
 
-<br/>
-
-<h3 align="center">Work Experience</h3>
+<h2 align="center"><a href="https://www.linkedin.com/in/smitdesai1010/details/experience/">Work Experience</a></h2>
 <ul>
     <li>
         <b>Teaching Assistant at Concordia University - </b> I taught students the fundamentals of Web Programming for SOEN 287 course
     </li>
+    <br/>
     <li>
         <b>Software Engineer Intern at Okta - </b> I wrote code to integrate external touchID into Okta Verify App for MacOS 
     </li>
+    <br/>
     <li>
         <b>Software Engineer Intern at Scotiabank - </b>I wrote code to validate interac e-transfers deposited at Scotiabank.
     </li>
