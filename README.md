@@ -50,7 +50,7 @@
     </li>
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitdesai1010&label=Profile%20views&color=0e75b6&style=flat" alt="smitdesai1010" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=smitdesai1010&label=Profile%20views&color=0e75b6&style=flat" alt="smitdesai1010" /></p>
 
 
 <h3 align="center"> 💻 Programming Languages </h3>
